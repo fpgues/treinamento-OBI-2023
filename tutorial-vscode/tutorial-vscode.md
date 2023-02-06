@@ -253,6 +253,4 @@ O que aprendemos nesse tutorial?
 2) Baixar e configurar o compilador.
 3) Compilar e executar um programa. 
 
-Agora o seu ambiente de desenvolvimento está pronto! Você já pode mergulhar nos estudos.
-
-Até mais e esperamos que seja útil.
+Agora o seu ambiente de desenvolvimento está pronto. Você já pode mergulhar nos estudos!
