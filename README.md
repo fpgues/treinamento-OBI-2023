@@ -44,17 +44,17 @@ A equipe técnica do projeto é composta por 10 membros, sendo as suas respectiv
 
 **Equipe Técnica:**
 
-- Alex Alves (Monitor / Instrutor)
-- Felipe Cardoso (Organizador / Instrutor /
+- Alex Alves - [alex-repo-alves](https://github.com/alex-repo-alves) - (Monitor / Instrutor)
+- Felipe Cardoso - [callmerockett](https://github.com/callmerockett) -  (Organizador / Instrutor /
 Escritor Técnico)
-- Filipe da Silva (Escritor Técnico)
-- Filipe Rodrigues (Organizador / Monitor /
+- Filipe da Silva - [filiperib98](https://github.com/filiperib98) - (Escritor Técnico)
+- Filipe Rodrigues - [filrpe](https://github.com/filrpe) - (Organizador / Monitor /
 Escritor Técnico)
-- Gabriel Vieira (Monitor / Instrutor)
-- Josiane Santos (Designer)
-- Marco Antonio Junior (Designer)
-- Matheus Rodrigues (Organizador / Instrutor /
+- Gabriel Vieira - [FerrariusF](https://github.com/FerrariusF) - (Monitor / Instrutor)
+- Josiane Santos- [josicapela95](https://github.com/josicapela95) - (Designer)
+- Marco Antonio Junior - [Mauesjr](https://github.com/Mauesjr) - (Designer)
+- Matheus Rodrigues - [veecstart](https://github.com/veecstart) - (Organizador / Instrutor /
 Desginer)
-- Pedro de Souza (Monitor / Instrutor)
-- Vanessa Pereira Garcez Cabral (Designer
+- Pedro de Souza - [pedrohsouza](https://github.com/pedrohsouza) - (Monitor / Instrutor)
+- Vanessa Cabral - [terrycarver](https://github.com/terrycarver) - (Designer
 )
