@@ -51,7 +51,7 @@ Escritor Técnico)
 - Filipe Rodrigues - [filrpe](https://github.com/filrpe) - (Organizador / Monitor /
 Escritor Técnico)
 - Gabriel Vieira - [FerrariusF](https://github.com/FerrariusF) - (Monitor / Instrutor)
-- Josiane Santos- [josicapela95](https://github.com/josicapela95) - (Designer)
+- Josiane Santos - [josicapela95](https://github.com/josicapela95) - (Designer)
 - Marco Antonio Junior - [Mauesjr](https://github.com/Mauesjr) - (Designer)
 - Matheus Rodrigues - [veecstart](https://github.com/veecstart) - (Organizador / Instrutor /
 Desginer)
